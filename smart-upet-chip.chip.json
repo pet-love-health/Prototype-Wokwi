@@ -1,0 +1,15 @@
+{
+  "name": "smart-upet-chip",
+  "author": "upet team",
+  "pins": [
+    "VCC",
+    "GND",
+    "DATA",
+    "TX",
+    "RX"
+  ],
+  "controls": [
+    { "type": "indicator", "name": "statusLed", "label": "Estado" },
+    { "type": "button", "name": "alertTest", "label": "Simular Alerta" }
+  ]
+}
