@@ -1,0 +1,14 @@
+{
+  "name": "max30102",
+  "author": "UPet",
+  "pins": [
+    "VCC",
+    "GND",
+    "SDA",
+    "SCL"
+  ],
+  "controls": [
+    { "type": "indicator", "name": "statusLed", "label": "Estado Pulso" },
+    { "type": "button", "name": "alertTest", "label": "Simular Alerta" }
+  ]
+}
