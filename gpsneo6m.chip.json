@@ -1,0 +1,13 @@
+{
+  "name": "gpsneo6m",
+  "author": "UPet",
+  "pins": [
+    "VCC",
+    "GND",
+    "RX",
+    "TX"
+  ],
+  "controls": [
+    { "type": "indicator", "name": "statusLed", "label": "Estado GPS" }
+  ]
+}
